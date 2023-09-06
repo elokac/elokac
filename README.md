@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=elokac&style=flat-square&color=blue" alt=""/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy-downsized-large.gif" width="600" height="300"/>
+  <img src="[https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy-downsized-large.gif](https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy-downsized-large.gif)" width="600" height="300"/>
 </div>
 
 ---
