@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elokac&show_icons=true&theme=radical)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elokac)](https://github.com/elokac/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elokac&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elokac&langs_count=8)
