@@ -27,7 +27,12 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 <img src="https://komarev.com/ghpvc/?username=elokac&style=flat-square&color=blue" alt=""/>
+
 <div align="center">
   <img src="https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy-downsized-large.gif" width="600" height="300"/>
 </div>
+
+---
+### :hammer_and_wrench: Languages and Tools :
